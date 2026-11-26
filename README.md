@@ -1,5 +1,9 @@
 # Rename the Planet
 
+[![make.fun](https://make.fun/badge/u-motasimfuad-rename-the-planet-094b0369.svg)](https://make.fun/c/u-motasimfuad-rename-the-planet-094b0369)
+[![rank](https://make.fun/badge/u-motasimfuad-rename-the-planet-094b0369/stfu-onad/u-motasimfuad-rename-the-planet-094b0369/rank.svg)](https://make.fun/c/u-motasimfuad-rename-the-planet-094b0369)
+[![reward](https://make.fun/badge/u-motasimfuad-rename-the-planet-094b0369/stfu-onad/u-motasimfuad-rename-the-planet-094b0369/reward.svg)](https://make.fun/c/u-motasimfuad-rename-the-planet-094b0369)
+
 One line giving a planet of our solar system a funny new name and saying
 why, for the make.fun bounty `u-motasimfuad-rename-the-planet-094b0369`.
 
